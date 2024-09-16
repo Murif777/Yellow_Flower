@@ -56,7 +56,7 @@ turtle.goto(0, 200)
 turtle.color("white")  
 turtle.write("Una flor para una hermosa como tú", align="center", font=("Times New Roman", 8, "italic"))
 turtle.goto(0, -250)
-#turtle.write("\n             ", align="center", font=("Times New Roman", 8 , "italic"))
+turtle.write("\n   chochito          ", align="center", font=("Times New Roman", 8 , "italic"))
 turtle.hideturtle()
 turtle.exitonclick()
     
